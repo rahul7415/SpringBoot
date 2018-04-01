@@ -8,5 +8,7 @@ import com.lms.Modals.Book;
 @Repository
 public interface BookDao extends JpaRepository<Book, Long>{
 	
+	
+	
 
 }
